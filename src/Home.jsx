@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { addtask, Completee, Deletee, Archive } from './Redux/ToDoSlice';
+import { addtask, Completee, Deletee, Archive } from './redux/ToDoSlice';
 import 'animate.css';
 
 
